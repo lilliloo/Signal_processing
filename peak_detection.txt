@@ -1,0 +1,15 @@
+Readme
+
+#dependency
+python
+
+#usase
+Program that automatically detects signal peaks
+・Automatically detect signal peaks (maximum and minimum values)
+  in time series data
+・Performs FFT on the signal and automatically detects the peak at the frequency
+・Use signal.argrelmax when detecting peaks and 
+  list the number of peaks detected for each order
+
+#author
+yuto kikuchi

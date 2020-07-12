@@ -1,0 +1,15 @@
+Readme
+
+#dependency
+python
+
+#usase
+Program that performs signal processing on discrete data
+・FFT frequency analysis
+・Low-pass filter
+・High-pass filter
+・Band pass filter
+・Band eliminate filter
+
+#author
+yuto kikuchi
